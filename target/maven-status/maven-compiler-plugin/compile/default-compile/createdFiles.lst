@@ -1,0 +1,7 @@
+com/project/Main.class
+com/project/domain/Habilitat.class
+com/project/sqliteutils/MainSQLite.class
+com/project/sqliteutils/UtilsSQLite.class
+com/project/domain/Faccio.class
+com/project/dao/Manager.class
+com/project/domain/Personatge.class
